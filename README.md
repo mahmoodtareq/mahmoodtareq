@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⛔ This is my old github repo. 
+
+🎉 Check [tareqmahmood](https://github.com/tareqmahmood)
+
 <!--
 **mahmoodtareq/mahmoodtareq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
